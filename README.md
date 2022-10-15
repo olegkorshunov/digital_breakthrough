@@ -15,3 +15,6 @@
 Решение на лб v55 представлено в текущем репо в ноутбуке v_55.ipynb
 Как рабоать с чекпойнтом соотвественно в predict_v55.ipynb
 Лучшие чекпойнты собраны тут [best](https://drive.google.com/drive/folders/1BPiYEGsTGq6SB-jWRJhIoHAoEZf1UCn7?usp=sharing)
+
+
+# Screen cast [тут](https://drive.google.com/file/d/1HmDpk_auIRHf8fozJimATuI7lAZf57-8/view)
