@@ -7,6 +7,6 @@
 
 # Предобработка данных:
 
-1) Данные были нормализованы с помщью [StandardScaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html), а именно train и test были обедены в 1 датасет и дальше статисики счиатлись стандартно через fit, параметры StandardScaler в [checkpoints](https://drive.google.com/drive/folders/1Wj4lmR54Ds2IyUlSoya8yAQ6uvKDaSND?usp=sharing)/scaler_concat.joblib
+1) Данные были нормализованы с помщью [StandardScaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html), а именно train и test были объедены в 1 датасет и дальше статистики считались стандартно через fit, параметры StandardScaler в [checkpoints](https://drive.google.com/drive/folders/1Wj4lmR54Ds2IyUlSoya8yAQ6uvKDaSND?usp=sharing)/scaler_concat.joblib
 
 2) Так же использовался [LabelEncoder](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html) ,чекпойнт которого находится тут [checkpoints](https://drive.google.com/drive/folders/1Wj4lmR54Ds2IyUlSoya8yAQ6uvKDaSND?usp=sharing)/labelEncoder.joblib
