@@ -18,3 +18,5 @@
 
 
 # Screen cast [тут](https://drive.google.com/file/d/1HmDpk_auIRHf8fozJimATuI7lAZf57-8/view)
+
+# так же cv, gridsearch есть в train_cv_gs.ipynb
